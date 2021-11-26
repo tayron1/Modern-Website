@@ -3,6 +3,7 @@
 ### Example pages
 - [Preview](https://luna-devv.github.io/Modern-Website/)
 - [xyna.space/@Luna](https://xyna.space/@Luna)
+- [lm.little-studios.xyz](https://lm.little-studios.xyz)
 
 ### Help
 - Please read our [LICENSE]() before you start editing! <br />
